@@ -10,7 +10,7 @@ public class ControlPanel {
     int port = 3306;
     String database = "Sakancom";
     String username = "root";
-    String password = "password";
+    String password = "password";//password
     String url = "jdbc:mysql://" + host + ":" + port + "/" + database;
 
     public boolean isBooked(String userName){
