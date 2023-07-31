@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class SakancomApplication{
-
+//s
     public static void main(String[] args) {
         while(true){
             System.out.println("_____________________________________________");
