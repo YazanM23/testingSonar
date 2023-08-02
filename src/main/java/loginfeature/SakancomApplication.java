@@ -1,4 +1,4 @@
-package loginFeature;
+package loginfeature;
 import java.util.Scanner;
 import java.util.logging.Logger;
 

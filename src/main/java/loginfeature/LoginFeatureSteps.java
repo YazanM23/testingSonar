@@ -1,4 +1,4 @@
-package loginFeature;
+package loginfeature;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
