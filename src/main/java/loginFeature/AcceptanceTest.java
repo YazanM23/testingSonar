@@ -1,4 +1,4 @@
-package sakancom.loginFeature;
+package loginFeature;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;

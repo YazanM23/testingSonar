@@ -3,6 +3,6 @@ module com.example.sakancom {
     requires junit;
     requires io.cucumber.junit;
     requires io.cucumber.java;
-    opens sakancom.loginFeature;
-    exports sakancom.loginFeature;
+    opens Sakancom.loginFeature;
+    exports Sakancom.loginFeature;
 }

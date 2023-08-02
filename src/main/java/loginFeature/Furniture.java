@@ -1,4 +1,4 @@
-package sakancom.loginFeature;
+package loginFeature;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

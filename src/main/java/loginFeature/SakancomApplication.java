@@ -1,4 +1,4 @@
-package sakancom.loginFeature;
+package loginFeature;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
